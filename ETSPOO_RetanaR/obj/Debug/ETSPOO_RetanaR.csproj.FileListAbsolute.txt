@@ -1,0 +1,11 @@
+C:\Users\marco\Desktop\ETSPOO_RetanaR\ETSPOO_RetanaR\obj\Debug\ETSPOO_RetanaR.csprojAssemblyReference.cache
+C:\Users\marco\Desktop\ETSPOO_RetanaR\ETSPOO_RetanaR\obj\Debug\ETSPOO_Retana.Form1.resources
+C:\Users\marco\Desktop\ETSPOO_RetanaR\ETSPOO_RetanaR\obj\Debug\ETSPOO_Retana.misProductos.resources
+C:\Users\marco\Desktop\ETSPOO_RetanaR\ETSPOO_RetanaR\obj\Debug\ETSPOO_RetanaR.Properties.Resources.resources
+C:\Users\marco\Desktop\ETSPOO_RetanaR\ETSPOO_RetanaR\obj\Debug\ETSPOO_RetanaR.csproj.GenerateResource.cache
+C:\Users\marco\Desktop\ETSPOO_RetanaR\ETSPOO_RetanaR\obj\Debug\ETSPOO_RetanaR.csproj.CoreCompileInputs.cache
+C:\Users\marco\Desktop\ETSPOO_RetanaR\ETSPOO_RetanaR\bin\Debug\ETSPOO_RetanaR.exe.config
+C:\Users\marco\Desktop\ETSPOO_RetanaR\ETSPOO_RetanaR\bin\Debug\ETSPOO_RetanaR.exe
+C:\Users\marco\Desktop\ETSPOO_RetanaR\ETSPOO_RetanaR\bin\Debug\ETSPOO_RetanaR.pdb
+C:\Users\marco\Desktop\ETSPOO_RetanaR\ETSPOO_RetanaR\obj\Debug\ETSPOO_RetanaR.exe
+C:\Users\marco\Desktop\ETSPOO_RetanaR\ETSPOO_RetanaR\obj\Debug\ETSPOO_RetanaR.pdb
